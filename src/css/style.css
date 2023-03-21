@@ -82,10 +82,11 @@ h1 {
     font-size: 13px;
     font-weight: 600;
     color: var(--color-primary-green);
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     background-color: var(--color-accent-blue);
     border-radius: 8px;
     width: 400px;
+    height: 130px;
 }
 
 label {
